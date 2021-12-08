@@ -10,3 +10,7 @@
 [submodule "Theme/DevResume"]
 	path = Theme/DevResume
 	url = https://github.com/cowboysmall-tools/hugo-devresume-theme
+[submodule "learn1/themes/compose"]
+	path = learn1/themes/compose
+	url = https://github.com/onweru/compose.git
+	
