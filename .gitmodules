@@ -1,0 +1,12 @@
+[submodule "Themes/PaperMod"]
+	path = Themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "Themes/Compose"]
+	path = Themes/Compose
+	url = https://github.com/onweru/compose
+[submodule "Themes/ShowFolio"]
+	path = Themes/ShowFolio
+	url = https://github.com/apvarun/showfolio-hugo-theme
+[submodule "Themes/DevResume"]
+	path = Themes/DevResume
+	url = https://github.com/cowboysmall-tools/hugo-devresume-theme
