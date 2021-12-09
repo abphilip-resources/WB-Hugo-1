@@ -1,9 +1,9 @@
-[submodule "Theme/PaperMod"]
-	path = Theme/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "Theme/Compose"]
 	path = Theme/Compose
 	url = https://github.com/onweru/compose
 [submodule "Theme/ShowFolio"]
 	path = Theme/ShowFolio
 	url = https://github.com/apvarun/showfolio-hugo-theme
+[submodule "Theme/PaperMod"]
+	path = Theme/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
