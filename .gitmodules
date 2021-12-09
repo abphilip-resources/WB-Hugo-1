@@ -7,3 +7,6 @@
 [submodule "Theme/PaperMod"]
 	path = Theme/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "Theme/DevResume"]
+	path = Theme/DevResume
+	url = https://github.com/cowboysmall-tools/hugo-devresume-theme.git
