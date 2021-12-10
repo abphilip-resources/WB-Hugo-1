@@ -7,4 +7,4 @@
 
 ### Themes
     git submodule add <link>.git themes/<loc>       --> Adds a theme submodule
-    Explore Themes                                  --> http://themes.gohugo.io
+    Explore Themes                                  --> https://themes.gohugo.io/
